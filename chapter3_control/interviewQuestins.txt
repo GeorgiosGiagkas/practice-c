@@ -1,0 +1,13 @@
+Interview Questions - 2
+Section 3, Lecture 29
+Question : Are negative numbers considered as true or false?
+Answer : Remember that 0 (Zero) is false and any other non-zero value is true.
+
+Question : Is the subtraction operator (-) binary or unary?
+Answer : It's both...! The compiler is smart enough to know which one you are using. It knows which form to use depending upon operands besides operator.
+
+Question : What happens if I forget the address of operator (&) ahead of variable name in scanf function?
+Answer : This is an easy mistake to make. Unpredictable results can occur if you forget to write address-of operator. Though treatment varies from compiler to compiler, in a few cases scanf function doesn't place the entered information in your variable, but in some place in memory. The result might be anything from nothing to worse...! 
+
+Question : Do variables occupy same memory location always?
+Answer : No. Each time a program runs, its variable can be stored at different addresses within the computer (I mean data segment).

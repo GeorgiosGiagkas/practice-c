@@ -1,0 +1,12 @@
+Array Assignments
+Section 8, Lecture 71
+1.Write a C program to sum and average of an array containing integers. Take integer input from user. User input may be positive or negative or zero. Sum of negative integers and positive integers should be printed separately. (Note: Write whole program in single function i.e. main function)
+2.Write same program using separate functions. (Use pointers) 
+3.Write a C program to find largest 2 numbers in a given array. 
+4.Write a C program to print second largest and smallest number in a given array. 
+5.Write a C program to put even and odd numbers of an array in two different arrays. 
+6.Write a C program to insert an element at a specified position in a given array. 
+7.Write a C program to delete the specified integer from an array
+8.Write a C program to delete a number from specified location from an array. 
+9.Write a C program to sort an array in ascending order
+10.Write a C program to accept an array and reverse it using pointers. 

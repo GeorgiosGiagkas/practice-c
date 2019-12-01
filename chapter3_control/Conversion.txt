@@ -1,0 +1,15 @@
+/* Program to convert seconds to hours, minutes and seconds */
+#include <stdio.h>
+int main()
+{
+    int seconds;
+    printf("Enter Number of seconds\t");
+    scanf("%d",&seconds);
+    printf("%d : ",seconds/3600);
+    seconds%=3600;
+    printf("%d : ",seconds/60);
+    seconds%=60;
+    printf("%d",seconds);
+
+    return 0;
+}

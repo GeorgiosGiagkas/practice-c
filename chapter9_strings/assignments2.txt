@@ -1,0 +1,9 @@
+Write a C program to check if a given string is palindrome or not. 
+
+Write a C program to find the largest and smallest word in a string. 
+Write a C program to a given word from a string
+Write a C program to reverse every word of a given string 
+Write a C program to count number of vowels and consonants in a sentence 
+Write a C program to find the frequency of the word "the" in a given sentence 
+Write a C program to find whether one string is sub string of other string. (For example the string "nation" is sub string of the string "Borland International" 
+Write a C program to remove all characters in a string except alphabets 

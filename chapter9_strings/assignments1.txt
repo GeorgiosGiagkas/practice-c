@@ -1,0 +1,21 @@
+Assignments on strings in C
+Section 9, Lecture 87
+1.A multi word string is input through the keyboard. Write a C program using function to convert lower case letter into upper case and upper case letters into lower case and print it.
+
+2.A multi word string is input through the keyboard. Write a C program to count number of words in a given string.
+
+3.A multi word string is input through the keyboard. Write a C program to find number of vowels and consonants in a given string.
+
+4.A string containing single word is entered through the keyboard. Write a C program using user defined function to check whether the string is palindrome or not.
+
+5.A multi word string is entered through the keyboard. Write a C program using function to find the largest and smallest word in a given string.
+
+6.Two strings, One string containing single word and other multi word string are input through the keyboard. Write a C program to determine whether first string is sub string of second string.
+
+7.A multi word string is input through the keyboard and a single word from the string itself is also taken from the user. For example a string entered is "She sells sea shells at the sea shore of pacific sea coast". Write a C program to find the number of times the word "Sea" appears in a given string.
+
+8.A multi word string is input through the keyboard. Write a C program to reverse each word of the string and print it.
+
+9.A multi word string is input through the keyboard. Write a C program to delete repeated words in a string.
+
+10.A multi word string is input through the keyboard. Write a C program to search a particular word in a string and replace it by other word suggested by the user.

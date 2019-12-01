@@ -1,0 +1,36 @@
+1.Marks of 3 subjects are input through the keyboard. Write a program to print total and percentile marks
+for 3 students using any appropriate loop control structure
+2.Write a program to print sum of integers. At the beginning user will be asked how many numbers he is
+going to enter. The output should be sum of all numbers entered by the user. (For example if user enters
+6 at the beginning, then user will be prompted to enter 6 integers)
+3.Write a program to print factorial of any positive integer entered by the user through the keyboard.
+
+
+
+
+4.Write a C program to print multiplication table for numbers 1 to 10
+
+5.Two integer numbers are input through the keyboard. Write a C program to print one number raised to
+other number. For example if user enters 4 and 3 then output should be 4 raised to 3
+
+
+
+6.An integer is entered through the keyboard. Write a program to print whether number entered is prime
+or not
+
+7.Write a C program to print first n numbers of Fibonacci series where n is the value given by the user. For
+example if user enters 6 then output should be 0…1…1….2….3…..5
+8.Write a C program to print all Armstrong numbers between 0 and number entered by the user. For
+example if user enters 500 then output would be all Armstrong numbers between 0 and 500. (If sum of
+cubes of each digit of the number is equal to the number itself, then the number is an Armstrong
+number) For example 153 = (1* 1 * 1) + (5 * 5 * 5) + (3 * 3 * 3)
+
+9.Write a C program to calculate and print cube of a number entered by the user. Make a provision that
+user can enter as many numbers as he/she wants.
+
+10.Write a program to print all prime numbers between 0 and 500.
+
+11.Write a C program find and print highest marks in the class for particular subject using loop. Make
+arrangement to accept marks of as many students as user wishes.
+
+12.Write a C program to print sum of odd positive integers up to 75…

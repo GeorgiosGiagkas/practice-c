@@ -1,0 +1,27 @@
+Assignments
+Section 1, Lecture 9
+
+
+
+1.Three integers are input through the keyboard. Write a C program to print sum of all three integers
+
+
+2.Basic salary of an employee is input through the keyboard. Employee gets 25% of the basic pay towards conveyance allowance and 27% of basic pay towards medical allowance. Write a program to print net salary of an employee if tax deduction is 17% of the gross pay. Print Gross Salary as well as net salary.
+
+3.Distance in kilometers is entered by the user. Write a C program to print distance in meters, feet, inches and centimeters.
+
+4.Marks obtained by student in 5 different subjects are input through the keyboard. Write a C program to print total marks and percentile marks obtained by student. (Note: Assume that maximum marks obtained by student in any subject are 100)
+
+5.Length and breadth of rectangle are input through the keyboard. Write a C program to print area and perimeter of rectangle.
+
+6.Radius of a circle is input through the keyboard. Write a C program to print area and circumference of a circle
+
+7.Temperature of a city in degree centigrade is entered by the user. Write a C program to print temperature in Fahrenheit.
+
+8.A five digit number is input through the keyboard. Write a C program to find sum of all digits of a 5 digit number. For example if number entered by the user is 24351 then output should be 15
+
+9.A five digit number is entered by the user through the keyboard. Write a C program to reverse the number and print it.
+
+10.Write a C program to interchange contents of two integer variables with the help of temporary variable
+
+11.Write a C program to interchange contents of two variables without using third variable

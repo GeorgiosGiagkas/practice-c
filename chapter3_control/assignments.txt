@@ -1,0 +1,14 @@
+Assignments
+Section 3, Lecture 28
+1.If cost and selling price of a particular item is input through the keyboard, write a C program to determine whether a trader has made a profit or loss. Also print how much loss he has incurred or profit he has earned
+2.Two integers are input through the keyboard. Write a program to print largest between two integers using if-else control structure
+3.Any integer is input through the keyboard. Write a C program to print whether number entered is even number or odd number.
+4.Any integer is input through the keyboard. Write a C program to print whether number entered is positive number or negative number.
+5.Any year is entered by the user through the keyboard. Write a C program to print whether the year is leap year or not
+6.Any alphabet is entered through the keyboard. Write a program to print whether the alphabet is vowel or consonant
+7.Any character is input through the keyboard. Write a C program to determine whether the character is small case alphabet, capital letter, a digit or a special symbol
+8.Any integer is input through the keyboard. Write a C program to print whether number entered is even number or odd number. (Make use of ternary operator)
+9.Two integers are input through the keyboard. Write a program to print largest between two integers using if-else control structure. (Make use of ternary operator)
+10.Three integers are input through the keyboard. Write a C program to print largest among three numbers. (Use if-else control structure)
+11.Three integers are input through the keyboard. Write a C program to print largest among three numbers. (Use ternary operators)
+12.Write a program to convert and print given time in seconds into hours, minutes and seconds. For example if number of seconds entered are 90001 then output printed should be 25:00:1 and if 34 is entered by the user then output should be 0:0:34.

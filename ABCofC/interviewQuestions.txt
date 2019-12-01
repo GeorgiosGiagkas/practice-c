@@ -1,0 +1,18 @@
+Interview Questions - 1
+Section 1, Lecture 10
+Question : I I want to give someone a program I wrote, which files do I need to give him/her?
+Answer : One of the nice things about C is that it is a compiled language. This means that after the source code is compiled, you have an executable program. This executable program is a standalone program. If you wanted to give payroll to the client having computer, you could. All you need to give them is the executable file payroll.exe. They don't need the source file payroll.c, or the object file payroll.obj. They don't need to own a C compiler either.
+
+Question : After I create an executable file, do I need to keep the source file (.C) or object file (.obj)?
+Answer : If you get rid of the source file, you have no way to make changes to the program in the future, so you should keep this file (.C) always. The object files are different matter. There are reasons to keep object file, but they they are beyond the knowledge you are having right now and will be dealt afterwards. For now, you can get rid of your object file once you have your executable file. If you need object file, you can re-compile the program. Most integrated development environments create files in addition to source, object and executable file.
+
+Question : Can I ignore warning messages?
+Answer : Some warning messages don't affect how the program runs and some do. If the compiler gives you warning message, it's a signal that something is not right. It's always best to try to write all your programs with absolutely no warnings.
+
+Question : What effect can comments have on a program?
+Comments are for the programmer. When the compiler converts the source code into object code, it throws (or ignores) comments and white spaces like tabs away. This means that they have no effect on executable program. Comments do make source file bigger, but this is usually of little concern. 15 to 20% comments of lines of program are regarded as good programming practice. To summaries, you should use comments and white spaces (like tabs for indentation) to make your source code as easy to understand and maintain as possible. 
+Question : What happens if I assign a number with a decimal to an integer variable?
+Answer : You can assign a number with a decimal in it to an integer variable. Some compilers will give a warning message particularly when variable is a constant variable. Most of the compilers truncate decimal portion of the number and store rest part. For example if you store 3.14 in the integer variable, compiler may truncate 14 and store 3 in the integer variable. However you will have to check how compiler deal with such expressions. The best practice is to examine data type of expressions on the left and right hand side of an assignment operator.
+
+Question : What happens if I put a number into a a type that is not big enough to hold it?
+Answer : Many compilers will allow this without throwing any warning or error messages. The number is wrapped to fit into available bytes and it is a kind of overflow. As explained in the videos, if you assign 32768 to a two-byte integer, the integer really contains -32768. If you assign the value 65535 to this integer, then it would contain -1. Subtracting the maximum value that the field holds generally, gives you the value that will be stored.
